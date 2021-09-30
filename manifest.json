@@ -1,8 +1,8 @@
 {
     "update_url": "https://clients2.google.com/service/update2/crx",
     "manifest_version": 2,
-    "name": "Republicans are The Sith",
-    "description": "Replaces the word Republican/s with Sith Lord",
+    "name": "Who is the sith ",
+    "description": "replaces words with sith lord/s",
     "version": "1.0",
     "content_scripts": [
         {
