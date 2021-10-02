@@ -1,8 +1,8 @@
 {
     "update_url": "https://clients2.google.com/service/update2/crx",
     "manifest_version": 2,
-    "name": "Who is the sith ",
-    "description": "replaces words with sith lord/s",
+    "name": "Sithy-kittys ",
+    "description": "Sithy Kittys is an extension that changes Sith Lord/s to Sith Lord/s and Jedi Knights to Jedi Knight/s.",
     "icons": {
         "16": "icons/sithys-16.png",
     "version": "1.0",
