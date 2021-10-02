@@ -13,7 +13,7 @@
             ],
             "js": [
                 "content.js"
-                "Contentj.js"
+              
             ],
             "run_at": "document_end"
         }
