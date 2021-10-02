@@ -3,6 +3,8 @@
     "manifest_version": 2,
     "name": "Who is the sith ",
     "description": "replaces words with sith lord/s",
+    "icons": {
+        "16": "icons/sithys-16.png",
     "version": "1.0",
     "content_scripts": [
         {
