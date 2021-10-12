@@ -1,4 +1,4 @@
-[button url="http://www.google.com"]
+
 ## Welcome to Sithy kitty pages
 
 You can use the [Download here](https://github.com/Dez343/Sithy-kittys.git) to maintain and preview the content for your website in Markdown files.
