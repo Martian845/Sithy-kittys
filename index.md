@@ -1,4 +1,4 @@
-## Welcome to GitHub Pages
+## Welcome to Sithy kitty pages
 
 You can use the [editor on GitHub](https://github.com/Dez343/Sithy-kittys/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
